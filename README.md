@@ -1,1 +1,1 @@
-![Vista previa](imagen.png)
+![Vista previa](image.png)
